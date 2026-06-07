@@ -64,4 +64,4 @@ Found a bug or have an idea? Please open an [issue](https://github.com/vkfolio/P
 
 ---
 
-<sub>© 2026 vkfolio. PyPad is free to download and use. Built with Python &amp; PySide6.</sub>
+<sub>© 2026 vkfolio. PyPad is free to download and use </sub>
