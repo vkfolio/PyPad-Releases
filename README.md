@@ -18,12 +18,12 @@
 
 ## ⬇️ Download
 
+Grab the latest build from the **[Releases page →](https://github.com/vkfolio/PyPad-Releases/releases/latest)**
+
 | Platform | Installer |
 |---|---|
-| **Windows** | [PyPad‑1.1.0‑Setup.exe](https://github.com/vkfolio/PyPad-Releases/releases/download/v1.1.0/PyPad-1.1.0-Setup.exe) |
-| **macOS** | [PyPad‑macOS.dmg](https://github.com/vkfolio/PyPad-Releases/releases/download/v1.1.0/PyPad-macOS.dmg) |
-
-> Or grab the newest build any time from the **[Releases page](https://github.com/vkfolio/PyPad-Releases/releases/latest)**.
+| **Windows** | `PyPad-…-Setup.exe` — from the [latest release](https://github.com/vkfolio/PyPad-Releases/releases/latest) |
+| **macOS** | [PyPad‑macOS.dmg](https://github.com/vkfolio/PyPad-Releases/releases/latest/download/PyPad-macOS.dmg) (direct download) |
 
 <sub>Builds are currently unsigned — on Windows choose *More info → Run anyway* in SmartScreen; on macOS right‑click the app → *Open* the first time.</sub>
 
