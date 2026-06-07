@@ -36,7 +36,7 @@ Grab the latest build from the **[Releases page →](https://github.com/vkfolio/
 ## ✨ Features
 
 - **Frameless, themeable editor** — custom window chrome, light/dark toggle (Catppuccin Mocha / GitHub Light), Fira Code, multi‑tab editing, a folder explorer, and font/size settings.
-- **IntelliSense** — Jedi‑powered completions, signatures and hover, running off the UI thread.
+- **IntelliSense** — completions, signatures and hover, running off the UI thread.
 - **Run any code** — pick your Python interpreter; stdout/stderr stream live, and an input line feeds `input()` programs.
 - **Line‑by‑line debugger** — breakpoints, step in/over/out, continue, a current‑line marker and a live variables panel.
 - **Live DSA Visualizer** 🧠 — the star feature. Your *actual* code drives the animation: press **Play** and watch the real variables evolve, or **Step** through line by line.
