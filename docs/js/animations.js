@@ -96,38 +96,6 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   /* =====================
-     Typewriter code
-     ===================== */
-  const codeLines = [
-    '<span class="code-comment"># Welcome to PyPad</span>',
-    '<span class="code-keyword">def</span> <span class="code-func">greet</span>(name):',
-    '    <span class="code-keyword">return</span> <span class="code-string">f"Hello, </span>{name}<span class="code-string">!"</span>',
-    '',
-    'users = [<span class="code-string">"Ada"</span>, <span class="code-string">"Grace"</span>, <span class="code-string">"Linus"</span>]',
-    '<span class="code-keyword">for</span> u <span class="code-keyword">in</span> users:',
-    '    <span class="code-func">print</span>(greet(u))'
-  ];
-
-  const tw = document.getElementById('typewriter');
-  codeLines.forEach((line) => {
-    const div = document.createElement('div');
-    div.className = 'tw-line';
-    div.style.opacity = '0';
-    div.style.transform = 'translateX(-12px)';
-    div.innerHTML = line || '\u00A0';
-    tw.appendChild(div);
-  });
-
-  anime({
-    targets: '.tw-line',
-    opacity: [0, 1],
-    translateX: [-12, 0],
-    delay: anime.stagger(220, { start: 1100 }),
-    duration: 700,
-    easing: 'easeOutQuad'
-  });
-
-  /* =====================
      Floating orbs
      ===================== */
   /* =====================
