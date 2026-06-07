@@ -50,6 +50,14 @@ Grab the latest build from the **[Releases page →](https://github.com/vkfolio/
 2. Launch PyPad and start typing, or open the **Algorithms** panel (the list icon on the left toolbar) and pick one — its code loads into the editor.
 3. Press **▶ Play** in the **Visualizer** tab to animate it, or set a breakpoint and **Debug** to step through.
 
+## 🔒 Privacy & sign-in
+
+PyPad asks you to **sign in with Google** on launch — purely so we can see how many people use PyPad.
+
+- **What's stored:** your Google **name and email**, to create your account (handled by Google / Firebase — PyPad never sees your password).
+- **What's *never* collected:** your code, files, keystrokes, editor content, or usage tracking. Everything you write stays on your machine.
+- You can **Sign Out** any time from the user menu in the title bar (or Help → Sign Out).
+
 ## 💬 Feedback
 
 Found a bug or have an idea? Please open an [issue](https://github.com/vkfolio/PyPad-Releases/issues).
